@@ -11,7 +11,7 @@ const Home = () => {
             <span className="text-black ">Rápido, pesado e melódico.</span> 
           </h1>
           <p className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Mörtein, nascida em Juiz de Fora em 2018, é uma ressurreição sonora que mistura o peso dos anos 80 com uma roupagem moderna. Lançaram os singles "Take me to Your Leader" e "Subvida", prometendo mais novidades.
           </p>
           <div className="flex justify-center xl:hidden relative">
             <ProjectsBtn />

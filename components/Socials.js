@@ -10,15 +10,15 @@ import {
 const socialLinks = [
   {
     icon: <RiYoutubeLine className="" />,
-    url: "https://www.youtube.com/@mortein",
+    url: "https://www.youtube.com/@morteinofficial",
   },
   {
     icon: <RiInstagramLine className="" />,
-    url: "https://www.instagram.com/mortein",
+    url: "https://www.instagram.com/morteinofficial",
   },
   {
     icon: <RiFacebookLine className="" />,
-    url: "https://www.facebook.com/mortein",
+    url: "https://m.facebook.com/morteinband",
   },
   {
     icon: <RiWhatsappLine className="" />,
@@ -26,7 +26,7 @@ const socialLinks = [
   },
   {
     icon: <RiSpotifyLine className="" />,
-    url: "https://open.spotify.com/artist/mortein",
+    url: "https://open.spotify.com/intl-pt/artist/0u8wARS8M0esg03GTdCc1u?si=HPE3ZpBvS3SZNDYHZXgrAA",
   },
 ];
 
