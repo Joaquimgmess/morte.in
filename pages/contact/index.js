@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="flex flex-col w-full max-w-[700px]">
           <h2 className="h2 text-center mb-12">Let's <span className="text-accent">connect</span></h2>
           <form
-            action="https://formspree.io/joaquimgmess21@gmail.com"
+            action=""
             method="post"
             className="flex-1 flex flex-col gap-6 w-full mx-auto"
           >
