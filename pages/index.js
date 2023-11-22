@@ -8,7 +8,7 @@ const Home = () => {
         {/* Texto e Botão */}
         <div className="text-center flex flex-col justify-center xl:pt-40 xl:text-left h-full w-full xl:w-1/2 xl:ml-28 sm:ml-0">
           <h1 className="h1 font-bold xl:text-7xl sm:text-xl">MÖRTEIN <br/> 
-            <span className="text-black ">Rápido, pesado e melódico.</span> 
+            <span className="text-accent ">Rápido, pesado e melódico.</span> 
           </h1>
           <p className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
             Mörtein, nascida em Juiz de Fora em 2018, é uma ressurreição sonora que mistura o peso dos anos 80 com uma roupagem moderna. Lançaram os singles &ldquo;Take me to Your Leader&rdquo; e &ldquo;Subvida&rdquo;, prometendo mais novidades.
